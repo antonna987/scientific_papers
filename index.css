@@ -1,0 +1,28 @@
+h1, h2 {
+    margin-left: 0px;
+    margin-bottom: 20px;
+}
+
+h1 {
+    margin-top: 10px;
+}
+
+h2 {
+    margin-top: 50px;
+}
+
+.container-fluid {
+    padding: 20px;
+}
+
+.btn {
+    margin: 20px 0px 0px;
+}
+
+.card {
+    margin: 10px 0px;
+}
+
+footer {
+    background-color: #F5F5F5;
+}
